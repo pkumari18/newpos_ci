@@ -1,0 +1,5 @@
+[22-Jun-2018 15:59:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/laxyo/public_html/newpos/application/views/items/form.php on line 176
+[22-Jun-2018 15:59:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/laxyo/public_html/newpos/application/views/items/form.php on line 176
+[22-Jun-2018 15:59:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/laxyo/public_html/newpos/application/views/items/form.php on line 176
+[22-Jun-2018 16:00:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/laxyo/public_html/newpos/application/views/items/form.php on line 176
+[22-Jun-2018 16:37:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method Sale::get_item_tax_rate() in /home/laxyo/public_html/newpos/application/views/sales/invoice_email.php on line 136
